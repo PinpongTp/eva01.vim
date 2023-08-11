@@ -37,7 +37,7 @@ hi MatchParen ctermfg=15 ctermbg=240 cterm=bold guifg=#FFFFFF guibg=#585858 gui=
 hi ModeMsg ctermfg=119 ctermbg=NONE cterm=bold guifg=#87FF5F guibg=NONE gui=bold
 hi MoreMsg ctermfg=119 ctermbg=NONE cterm=bold guifg=#87FF5F guibg=NONE gui=bold
 hi NonText ctermfg=234 ctermbg=NONE cterm=NONE guifg=#6e4c28 guibg=NONE gui=NONE
-hi Normal ctermfg=252 ctermbg=NONE cterm=NONE guifg=#bec7d1 guibg=#000000 gui=NONE
+hi Normal ctermfg=252 ctermbg=NONE cterm=NONE guifg=#bec7d1 guibg=#151515 gui=NONE
 hi NormalFloat ctermfg=252 ctermbg=16 cterm=NONE guifg=#bec7d1 guibg=#14250e gui=NONE
 hi FloatBorder ctermfg=156 ctermbg=NONE cterm=NONE guifg=#9cda7c guibg=NONE gui=NONE
 hi FloatTitle ctermfg=156 ctermbg=NONE cterm=NONE guifg=#9cda7c guibg=NONE gui=NONE
